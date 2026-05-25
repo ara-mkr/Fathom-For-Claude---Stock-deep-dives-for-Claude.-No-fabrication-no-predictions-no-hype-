@@ -1,0 +1,2 @@
+# Fathom-For-Claude---Stock-deep-dives-for-Claude.-No-fabrication-no-predictions-no-hype-
+Fathom turns Claude into an institutional-grade equity analyst. It pulls live SEC filings, applies the right framework for the sector (banks ≠ REITs ≠ biotech), and pressure-tests your bias instead of confirming it. No fabricated numbers, no price predictions, only scenario-conditioned analysis with calibrated evidence strength.
