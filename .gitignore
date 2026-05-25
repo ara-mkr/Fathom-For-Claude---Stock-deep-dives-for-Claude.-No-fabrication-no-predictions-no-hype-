@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+*.iml
+
+# Local Claude Code state
+.claude/
+.claude.local/
+
+# Build / dist artifacts
+node_modules/
+dist/
+build/
+*.log
+
+# Local-only test outputs
+local-runs/
+scratch/
+*.local.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets — should never live in this repo
+.env
+.env.*
+*.key
+*.pem
+secrets/
